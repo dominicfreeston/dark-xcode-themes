@@ -10,7 +10,7 @@ Inspired by the Dusk/Midnight themes. There are two version of each theme: one w
 
 ## Previews
 ### Evenfall
-![Evenfall](evenfall.jpg)
+![Evenfall](evenfall.png)
 
 ### Nightspring
-![Nightspring](nightspring.jpg)
+![Nightspring](nightspring.png)
